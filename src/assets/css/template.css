@@ -1,0 +1,41 @@
+body {
+
+}
+
+#home .imgHolder.bgteaser {
+	background-image:url('../images/teaser-home.jpg');
+	/*background-position: bottom center;*/
+}
+#about .imgHolder.bgteaser {
+	background-image:url('../images/teaser-about.jpg');
+	/*background-position: bottom center;*/
+}
+
+/* --------------------------
+	PROJECTS */
+
+/* mixBlendMode */
+.bgimage1 {
+	background-image:url('../images/mix-blend-bg1.jpg');
+}
+.bgimage2 {
+	background-image:url('../images/mix-blend-bg2.jpg');
+}
+.bgimage3 {
+	background-image:url('../images/mix-blend-bg3.jpg');
+}
+.bgimage4 {
+	background-image:url('../images/mix-blend-bg4.jpg');
+}
+.bgimage5 {
+	background-image:url('../images/mix-blend-bg5.jpg');
+}
+.bgimage6 {
+	background-image:url('../images/mix-blend-bg6.jpg');
+}
+.bgimage7 {
+	background-image:url('../images/mix-blend-bg7.jpg');
+}
+.bgimage8 {
+	background-image:url('../images/mix-blend-bg8.jpg');
+}
